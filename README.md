@@ -15,4 +15,4 @@ docker run --rm \
 vendor/bin/sail up -d --build
 ```
 
-For more information see Laravel Sail Documentation [https://laravel.com/docs/10.x/sail](Here)
+For more information see Laravel Sail Documentation [Here](https://laravel.com/docs/10.x/sail)
